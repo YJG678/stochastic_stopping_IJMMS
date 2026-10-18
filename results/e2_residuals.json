@@ -1,0 +1,38 @@
+[
+ {
+  "majorisation": 0.0,
+  "superharmonic": 4.456521957019177e-13,
+  "complementarity": 2.566667150366695e-13,
+  "continuation_eq": 5.206859249318185e-13,
+  "contact": 0.0,
+  "N": 121,
+  "h": 0.025,
+  "smoothfit_max": 0.10982011805866776,
+  "neumann": 0.0005770169552166138,
+  "min_w_on_diag": 0.027163393148002424
+ },
+ {
+  "majorisation": 0.0,
+  "superharmonic": 2.9467626255774704e-12,
+  "complementarity": 1.2452966934226445e-12,
+  "continuation_eq": 2.9467626255774704e-12,
+  "contact": 0.0,
+  "N": 241,
+  "h": 0.0125,
+  "smoothfit_max": 0.05942222206183345,
+  "neumann": 0.0001507574772308118,
+  "min_w_on_diag": 0.027330992112920782
+ },
+ {
+  "majorisation": 0.0,
+  "superharmonic": 1.1132214941533825e-11,
+  "complementarity": 6.870585194618192e-12,
+  "continuation_eq": 1.251464730456231e-11,
+  "contact": 0.0,
+  "N": 481,
+  "h": 0.00625,
+  "smoothfit_max": 0.02835556260663452,
+  "neumann": 3.854935783920155e-05,
+  "min_w_on_diag": 0.02735581052046232
+ }
+]
